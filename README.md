@@ -1,6 +1,6 @@
 # Node.js Backend Server Course
 
-This course is published by freecodecamp.org and this repository contains the personal code along files and notes of the course.
+The course is published by freecodecamp.org and this repository contains the personal code along files and notes from the course.
 
 Here is the full list of what is covered:
 
