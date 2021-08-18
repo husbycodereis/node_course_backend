@@ -1,0 +1,11 @@
+{
+  "name": "express-tutorial",
+  "version": "1.0.0",
+  "description": "freecodecamp express.js tutorial",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
